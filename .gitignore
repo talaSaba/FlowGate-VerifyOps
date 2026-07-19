@@ -1,0 +1,22 @@
+# CMake and compiler build output
+build/
+build-*/
+
+# Python environments and cache
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Test and runtime output
+artifacts/
+reports/
+logs/
+
+# Editor files
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
